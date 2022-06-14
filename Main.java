@@ -388,7 +388,7 @@ public class Main {
                     break;
 
                 case "0":
-                    System.out.println("\nObrigado! Feito por Juliano Barreira Zorzetto e Breno Rodrigues Muth - 2° Ciclo ADS - Vespertino");
+                    System.out.println("\nObrigado! Feito por Breno Rodrigues Muth e Juliano Barreira Zorzetto - 2° Ciclo ADS - Vespertino");
                     validador = false;
                     break;
             }
